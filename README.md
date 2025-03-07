@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-html-and-css-qD6uJEw1Gl)
 - Live Site URL: [https://qrcodecomponentmain-nu.vercel.app/)
 
 ## My process
